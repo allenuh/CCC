@@ -1,0 +1,26 @@
+// Author: A9/Allenuh //
+
+#include <algorithm>
+#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <map>
+#include <unordered_map>
+#include <utility>
+#include <vector>
+using namespace std;
+
+#define FOR(i, a, n) for (register int i = (a); i < (int)(n); ++i)
+#define all(x) (x).begin(), (x).end()
+#define longer long long int
+#define vec vector
+#define um unordered_map
+#define us unordered_set
+#define pb(x) push_back(x)
+
+void solve(){
+}
+
+int main(){
+    //I DON'T WANT TO DO THIS BINARY SEARCH IS SO UGLY LOLOLOLOLOLOL
+}
